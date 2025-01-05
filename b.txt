@@ -1,1 +1,0 @@
-Testando excluir arquivos do git 
